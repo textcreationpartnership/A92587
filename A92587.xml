@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paper delivered in to the Honourable Houses of Parliament by the Commissioners of Scotland. Concerning the returne of their army, surrender of their garrisons, and setling the peace of the kingdoms. Published by authority.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92587</idno><idno type="EEBO-CITATION">99861622</idno>
+  <idno type="VID">159834</idno>
+  <idno type="EEBO-PROQUEST">2248531590</idno>
+  
+            <idno type="STC">Wing S1297</idno>
+            <idno type="STC">Thomason E350_9</idno>
+            <idno type="STC">ESTC R201042</idno>
+            <idno type="PROQUEST">99861622</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861622e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159834)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E350[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paper delivered in to the Honourable Houses of Parliament by the Commissioners of Scotland. Concerning the returne of their army, surrender of their garrisons, and setling the peace of the kingdoms. Published by authority.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock at the Kings Head in Pauls Churchyard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159834:1"/>
+            <p>A PAPER Delivered In to the Honourable Houses of Parliament By the Commissioners of SCOTLAND.</p>
+            <p>Concerning the returne of their Army, surrender of their Garrisons, and setling the Peace of the Kingdoms.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Published by Authority.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON, Printed for <hi>Robert Bostock</hi> at the Kings Head in Pauls Churchyard. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159834:2"/>
+            <pb n="1" facs="tcp:159834:2"/>
+            <head>A Paper delivered in to the Honou<g ref="char:EOLhyphen"/>rable Houses of Parliament by the Commissioners of <hi>Scotland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He same principles of bro<g ref="char:EOLhyphen"/>therly affection which did induce both Kingdoms to a conjunction of their Councels &amp; Forces in this cause, move us at this time to apply our selves to the most reall and effectuall wayes which tend to a speedy conclusion and amicable parting, and to the prevention of mis-understandings between the Kingdoms in any of these things which peradventure our common Enemies looke upon with much joy, as occasions of diffe<g ref="char:EOLhyphen"/>rences. For this end we have not taken no<g ref="char:EOLhyphen"/>tice of the many base calumnies &amp; execrable
+<pb n="2" facs="tcp:159834:3"/>aspersions cast upon the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> in printed Pamphlets and otherwise, expecting from the justice and wisdome of the Honourable Houses, that they will of themselves take such course for the vindi<g ref="char:EOLhyphen"/>cation of our Nation and Army, as the Estates of <hi>Scotland</hi> have shewed themselves ready to doe for them in the like case.</p>
+            <p>Upon the invitation of both Houses, the Kingdom of <hi>Scotland</hi> did cheerfully under<g ref="char:EOLhyphen"/>take, and hath faithfully managed their as<g ref="char:EOLhyphen"/>sistance to this Kingdome in pursuance of the ends exprest in the Covenant; and the Forces of the common Enemy being (by the blessing of God upon the joynt endea<g ref="char:EOLhyphen"/>vours of both Kingdoms) now broken and subdued; a foundation being also laid, and some good progresse made in the reforma<g ref="char:EOLhyphen"/>tion of Religion, which we trust the Ho<g ref="char:EOLhyphen"/>nourable Houses will, according to the Co<g ref="char:EOLhyphen"/>venant, sincerely, really, &amp; constantly pro<g ref="char:EOLhyphen"/>secute till it be perfected: That wee may manifest to the Consciences of our Bre<g ref="char:EOLhyphen"/>thren, and to all the world, how farre it is, and ever was, from the thoughts and in<g ref="char:EOLhyphen"/>tentions
+<pb n="3" facs="tcp:159834:3"/>of the Kingdome of <hi>Scotland</hi> to make use of their Army in this Kingdome, to any other ends besides, these exprest in the Covenant; And how much they de<g ref="char:EOLhyphen"/>sire the preserving and perpetuating of peace and amity between the Kingdomes, and the easing of the burdens and pressures of this Nation; we doe in their Name de<g ref="char:EOLhyphen"/>clare that they are willing forth with to sur<g ref="char:EOLhyphen"/>render the Garrisons possessed by them in this Kingdome (which they did keep for no other end, but the safety and security of their Forces) and without delay to re<g ref="char:EOLhyphen"/>call their Army, reasonable satisfaction be<g ref="char:EOLhyphen"/>ing given for their pains, hazards, charges, and sufferings, whereof a competent pro<g ref="char:EOLhyphen"/>portion to be presently paid to the Army before their disbanding, and security to be given for the remainder, at such times here<g ref="char:EOLhyphen"/>after as shall be mutually agreed on.</p>
+            <p>If any Forces shall be kept on foot in either Kingdome we desire that they be put under the Command of such persons as are knowne to be zealous for Reformation and
+<pb n="4" facs="tcp:159834:4"/>Uniformity in Religion, and most tender of the peace of the Kingdomes, and against whom neither of the Kingdomes may have any just grounds of jealousie. And where<g ref="char:EOLhyphen"/>as the Kingdome of <hi>Scotland</hi> hath been in<g ref="char:EOLhyphen"/>vaded, and is still infested by Forces from <hi>Ireland,</hi> It is expected that the Honourable Houses, according to the large Treaty, will give such assistance and supply to the King<g ref="char:EOLhyphen"/>dome of <hi>Scotland,</hi> as may speedily reduce those Rebels to obedience; And to the end there may in all things be a good understanding betweene the Kingdomes, we further propose that whereas Propositi<g ref="char:EOLhyphen"/>ons for a safe and well grounded Peace have been lately sent to the King in the name of both Kingdoms, and for obtaining His Ma<g ref="char:EOLhyphen"/>jesties consent thereunto, the utmost endea<g ref="char:EOLhyphen"/>vours of the Kingdom of <hi>Scotland</hi> have not been wanting, as may appeare by the many addresses, Petitions, and solicitations to that end from the Army, the Lords of His Majesties Privie Councell, the Committees of Estates, and the generall Assembly of
+<pb n="5" facs="tcp:159834:4"/>the Church, the successe whereof hath not answered our wishes and hopes; His Ma<g ref="char:EOLhyphen"/>jesty (to our unspeakable grief) not ha<g ref="char:EOLhyphen"/>ving yet agreed to the Propositions: We desire that the Honourable Houses may be pleased to take such course as by the joynt advice of both Kingdomes, engaged in the same cause, labouring under the same dan<g ref="char:EOLhyphen"/>gers, and aiming at the same ends, we may consult and resolve, what is next to be done for the peace and safety of these King<g ref="char:EOLhyphen"/>domes, both in relation to His Majesty, and each Kingdome to the other, being confident that the result of our joynt con<g ref="char:EOLhyphen"/>sultations will be such as shall provide for the present, and future security of the Kingdomes, and strengthen their union between themselves.</p>
+            <closer>
+               <signed>
+                  <hi>By Command of the Commissioners for the Parliament of Scotland.</hi> John Cheisley.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
